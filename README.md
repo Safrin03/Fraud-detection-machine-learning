@@ -11,7 +11,8 @@ I started by exploring the dataset and addressing its class imbalance using the 
 ## Solution
 
 The XGBoost model emerged as the most powerful tool, delivering exceptional results with a 99.95% accuracy, 81.14% F1-score, and a remarkable ROC AUC score of 97.24%. To handle class imbalance, I utilized the SMOTE technique, enhancing the model's sensitivity to detect fraudulent transactions. To enhance the solution further, I utilized ensemble methods, combining the strengths of XGBoost and Random Forest. The resulting ensemble model demonstrated significant improvements, especially in identifying fraudulent transactions. Additionally, I have shared insights into the challenges faced and proposed preventive measures for future fraud instances, making it a comprehensive resource for understanding the intricacies of Credit Card Fraud Detection.
-<b> Link to Notebook: [Fraud Detection](https://github.com/Safrin03/Sentiment-Analysis-Amazon-Alexa-Reviews/blob/main/Amazon-Alexa-Reviews-Sentiment-Analysis.ipynb) </b>
+
+<b> Link to Notebook: [Fraud Detection](https://github.com/Safrin03/Fraud-detection-machine-learning/blob/main/Fraud_Detection.ipynb) </b>
 
 ## Data Source
 
